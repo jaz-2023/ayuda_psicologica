@@ -55,15 +55,8 @@
           <li class="nav-item">
             <a class="nav-link text-white h5" href="#consejos">Consejos</a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-white h5" href="#" id="navbarDropdown" role="button"
-              data-bs-toggle="dropdown" aria-expanded="false">
-              Contato
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="#telefonos">Lineas de atencion</a></li>
-              <li><a class="dropdown-item" href="#contactanos">Escribenos</a></li>
-            </ul>
+          <li class="nav-item">
+            <a class="nav-link text-white h5" href="#telefonos">Contacto</a>
           </li>
         </ul>
       </div>
@@ -630,7 +623,7 @@
                 ?>
                   <input type="text" id="nombre" name="nombre" placeholder="nombre" required>
                   <input type="email" id="correo" name="correo" placeholder="correo" required>
-                  <input type="number" id="celular" name="celular" max="10" min="10" placeholder="numero de celular"
+                  <input type="number" id="celular" name="celular" placeholder="numero de celular"
                     required>
                   <label for="mensaje">Mensaje:</label>
                   <textarea id="mensaje" name="mensaje" required></textarea>
