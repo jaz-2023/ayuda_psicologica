@@ -56,6 +56,9 @@
             <a class="nav-link text-white h5" href="#consejos">Consejos</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link text-white h5" href="#recursos">Recursos</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link text-white h5" href="#telefonos">Contacto</a>
           </li>
         </ul>
@@ -609,7 +612,7 @@
 <!--========================================================== -->
 
 <section id="recursos" class="w-100">
-<div class="recursos">
+<div class="card">
         <h3>Recursos y Programas de ayuda en Bogotá y a nivel nacional</h3>
 
 
@@ -620,7 +623,7 @@ hábitos durante la pandemia, e información sobre cómo identificar situaciones
 También resuelven dudas sobre sexualidad.
 </p>
 
-<p class="card-tex"> http://porquequieroestarbien.com/
+<p class="card-tex"> <a href="http://porquequieroestarbien.com/"target="_blanck"rel="nooper">http://porquequieroestarbien.com/</a>
 
 <p class="card-tex"> 300 912 5231 A nivel nacional
 
@@ -673,11 +676,11 @@ Encuentra atención psicológica gratis aquí
 
           <div class="col">
 
-            <div class="card" style="max-width: 540px;">
+            <div class="card" style="max-width: 540px; padding: 19px 0px 0px 0px;">
               <div class="row g-0">
                 <div class="col-md-2"></div>
                 <div class="col-md-8">
-                <h2><i class="bi  bi-person-lines-fill"></i> Contáctanos</h2>
+                <h5><i class="bi  bi-person-lines-fill"></i><b> Contáctanos</b></h5>
                 <p>Si requieres ayuda o asesoria frente a tu estado de salud mental, contáctanos.</p>
                 <form action="" method="POST">
                   <?php 
