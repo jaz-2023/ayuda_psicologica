@@ -609,11 +609,11 @@
 <!--========================================================== -->
 
 <section id="recursos" class="w-100">
-<div class="card">
-        <h3><b>Recursos y Programas de ayuda en Bogotá y a nivel nacional</b></h3>
 
-
-        <h5><b>Porque quiero estar bien</b></h5>
+<h3 class="card-title" style="margin-bottom: 2.5rem;"><b>Recursos y Programas de ayuda en Bogotá y a nivel nacional</b></h3>
+<p class="card-text" style="margin-bottom: 1rem;"><h5><b>Porque quiero estar bien</b></h5>
+<p class="card-text">
+        
         <p>Este centro de apoyo liderado por Profamilia y la Fundación Santo Domingo ofrece atención inmediata
 de psicólogos vía WhatsApp o celular. Además, puedes encontrar contenido sobre cómo tener mejores
 hábitos durante la pandemia, e información sobre cómo identificar situaciones de maltrato, tristeza.
@@ -627,12 +627,13 @@ También resuelven dudas sobre sexualidad.
 
 Encuentra atención psicológica gratis aquí 
 </p>
-
+<div>
   <h5><b>Línea SalvaVidas – Fundación Sergio Urrego</b></h5>
   <p>A este canal pueden acudir quienes estén en condición de vulnerabilidad, maltrato intrafamiliar,
 ideación suicida o violencia de género.
 </p>
 <p class="card-tex"> 311 766 8666 A nivel nacional
+</div>
 </p>
 <div> <h5><b>Hablemos de Salud Mental</b></h5>
 <p>Esta cuenta de Instagram reúne tips y ejercicios que pueden realizarse para conocer mejor nuestras
