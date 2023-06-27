@@ -80,13 +80,13 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active" data-bs-interval="3000">
-        <img src="images/carrusel/1 slide.png" class="d-block w-100" alt="...">
+        <img src="images/carrusel/slide1final.png" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item" data-bs-interval="3000">
-        <img src="images/carrusel/2 slide.png" class="d-block w-100" alt="...">
+        <img src="images/carrusel/slide2final.png" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item" data-bs-interval="3000">
-        <img src="images/carrusel/3 slide.png" class="d-block w-100" alt="...">
+        <img src="images/carrusel/slide3final.png" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
@@ -186,7 +186,7 @@
           <h2 class="accordion-header" id="headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
               aria-expanded="true" aria-controls="collapseOne">
-              Trastorno depresivo grave o depresión grave
+              <b>Trastorno depresivo grave o depresión grave</b>
             </button>
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
@@ -203,7 +203,7 @@
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              Trastorno distímico o distimia
+              <b>Trastorno distímico o distimia</b>
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -220,7 +220,7 @@
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              Depresión psicótica
+              <b>Depresión psicótica</b>
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -235,7 +235,7 @@
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
-              Depresión postparto
+              <b>Depresión postparto</b>
             </button>
           </h2>
           <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -251,7 +251,7 @@
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
-              Trastorno afectivo estacional
+              <b>Trastorno afectivo estacional</b>
             </button>
           </h2>
           <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -266,7 +266,7 @@
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
-              Trastorno bipolar o enfermedad maníaco-depresiva:
+              <b>Trastorno bipolar o enfermedad maníaco-depresiva</b>
             </button>
           </h2>
           <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -312,7 +312,7 @@
             </div>
           </div>
           <div class="col-md-3">
-            <img src="images/imagen2.jpeg" class="img-fluid rounded-start" alt="...">
+            <img src="images/razonesfinall.png" class="img-fluid rounded-start" alt="...">
           </div>
         </div>
       </div>
@@ -323,7 +323,8 @@
     <!--========================================================== -->
 
     <section class="w-100" id="riesgo">
-      <h3><b>¿Cuáles son sus factores de riesgo?</b></h3>
+    
+    <h3><b>¿Cuáles son sus factores de riesgo?</b></h3>
       <div class="row w-75 mx-auto" id="servicios-fila-1">
         <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-start my-5 icono-wrap">
           <img src="images/riesgos/genero.png" alt="desarrollo" width="180" height="160">
@@ -409,11 +410,7 @@
     <!-- ¿Consejos para afrontar una depresión? -->
     <!--========================================================== -->
     <div class="card" id="consejos">
-      <img src="images/imagen3.png" class="img-fluid" alt="...">
-    </div>
-
-    <br />
-
+</div>
     <section>
       <div class="card">
         <h3><b>Consejos para afrontar una depresión</b></h3>
@@ -616,7 +613,7 @@
         <h3><b>Recursos y Programas de ayuda en Bogotá y a nivel nacional</b></h3>
 
 
-        <h5>Porque quiero estar bien</h5>
+        <h5><b>Porque quiero estar bien</b></h5>
         <p>Este centro de apoyo liderado por Profamilia y la Fundación Santo Domingo ofrece atención inmediata
 de psicólogos vía WhatsApp o celular. Además, puedes encontrar contenido sobre cómo tener mejores
 hábitos durante la pandemia, e información sobre cómo identificar situaciones de maltrato, tristeza.
@@ -624,11 +621,28 @@ También resuelven dudas sobre sexualidad.
 </p>
 
 <p class="card-tex"> <a href="http://porquequieroestarbien.com/"target="_blanck"rel="nooper">http://porquequieroestarbien.com/</a>
+</p>
 
 <p class="card-tex"> 300 912 5231 A nivel nacional
 
 Encuentra atención psicológica gratis aquí 
 </p>
+
+  <h5><b>Línea SalvaVidas – Fundación Sergio Urrego</b></h5>
+  <p>A este canal pueden acudir quienes estén en condición de vulnerabilidad, maltrato intrafamiliar,
+ideación suicida o violencia de género.
+</p>
+<p class="card-tex"> 311 766 8666 A nivel nacional
+</p>
+<div> <h5><b>Hablemos de Salud Mental</b></h5>
+<p>Esta cuenta de Instagram reúne tips y ejercicios que pueden realizarse para conocer mejor nuestras
+emociones y entender cómo tramitarlas. El contenido lo produce la psicóloga y activista Mariana Solarte
+junto a las periodistas de La Papaya. La cuenta también ofrece talleres, grupos de apoyo, atención
+psicosocial y psicoterapia.
+</p>
+<p class="card-tex"> <a href="https://www.instagram.com/hablemosdesaludmental.co/"target="_blanck"rel="nooper">https://www.instagram.com/hablemosdesaludmental.co/</a>
+</p>
+
 
         <div class="container">
           <div class="row">
