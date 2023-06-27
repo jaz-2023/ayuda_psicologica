@@ -109,7 +109,7 @@
     <section id="Que_es">
       <div class="card text-dark bg-light mb-3" style="max-width: 100rem;">
         <div class="card-body">
-          <h5 class="card-title">¿Qué es la depresión?</h5>
+          <h3 class="card-title"><b>¿Qué es la depresión?</b></h3>
           <p class="card-text">La depresión es una enfermedad que afecta a casi una quinta parte de la población
             mundial, tiende a la
             cronicidad, genera una importante discapacidad, empeora el pronóstico de otras enfermedades y está
@@ -140,12 +140,12 @@
       <div class="card mb-3" style="max-width: 100%;">
         <div class="row g-0">
           <div class="col-md-4">
-            <img src="images/imagen1.png" class="img-fluid rounded-start" alt="...">
+            <img src="images/2sintomas.png" class="img-fluid rounded-start" alt="...">
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h5 class="card-title">¿Cuáles son los síntomas de la depresión?</h5>
-              <p class="card-text">Los síntomas más habituales son:</p>
+              <h3 class="card-title" style="margin-bottom: 2.5rem;"><b>¿Cuáles son los síntomas de la depresión?</b></h3>
+              <p class="card-text" style="margin-bottom: 1rem;">Los síntomas más habituales son:</p>
               <p class="card-text">
               <ul class="list-group list-group-flush">
                 <li class="list-group-item">Sentimiento persistente de tristeza, ansiedad, vacío, desesperanza y
@@ -180,7 +180,7 @@
     <!-- tipos de depresion -->
     <!--========================================================== -->
     <section id="Tipos">
-      <h3>¿Qué tipos de depresión existen?</h3>
+      <h3><b>¿Qué tipos de depresión existen?</b></h3>
       <div class="accordion" id="accordionExample">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
@@ -290,7 +290,7 @@
         <div class="row g-0">
           <div class="col-md-9">
             <div class="card-body">
-              <h5 class="card-title">¿Qué provoca la depresión?</h5>
+              <h3 class="card-title"><b>¿Qué provoca la depresión?</b></h3>
               <p class="card-text">Las razones por las que uno se deprime pueden ser obvias o todo lo contrario.
                 Igualmente,
                 puede existir
@@ -323,7 +323,7 @@
     <!--========================================================== -->
 
     <section class="w-100" id="riesgo">
-      <h3>¿Cuáles son sus factores de riesgo?</h3>
+      <h3><b>¿Cuáles son sus factores de riesgo?</b></h3>
       <div class="row w-75 mx-auto" id="servicios-fila-1">
         <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-start my-5 icono-wrap">
           <img src="images/riesgos/genero.png" alt="desarrollo" width="180" height="160">
@@ -416,7 +416,7 @@
 
     <section>
       <div class="card">
-        <h3>Consejos para afrontar una depresión</h3>
+        <h3><b>Consejos para afrontar una depresión</b></h3>
         <p>Para afrontar una depresión es necesario cuidar la mente, pero también el cuerpo. Algunas de las siguientes
           recomendaciones pueden ser útiles a la hora de superar esta enfermedad:
         </p>
@@ -613,7 +613,7 @@
 
 <section id="recursos" class="w-100">
 <div class="card">
-        <h3>Recursos y Programas de ayuda en Bogotá y a nivel nacional</h3>
+        <h3><b>Recursos y Programas de ayuda en Bogotá y a nivel nacional</b></h3>
 
 
         <h5>Porque quiero estar bien</h5>
