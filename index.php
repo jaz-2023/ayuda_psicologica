@@ -419,9 +419,8 @@
         </p>
         <div class="container">
           <div class="row">
-
-
-            <div class="col">
+      
+          <div class="col">
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header" style="font-weight: bold;">1. Habla y desahógate</div>
@@ -433,6 +432,10 @@
                 </div>
               </div>
 
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/compartir y hablar.png" alt="...">
+              </div>
+
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header" style="font-weight: bold;">4. Piensa en positivo</div>
                 <div class="card-body">
@@ -441,6 +444,10 @@
                     a poco, los pensamientos positivos irán reemplazando a los negativos.
                   </p>
                 </div>
+              </div>
+
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/metas.png" alt="...">
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
@@ -454,6 +461,9 @@
                     antes de que su estado de ánimo deprimido desaparezca.
                   </p>
                 </div>
+              </div>
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/dormir.png" alt="...">
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
@@ -483,6 +493,10 @@
                 </div>
               </div>
 
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/meditacion.png" alt="...">
+              </div>
+
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header" style="font-weight: bold;">8. Intenta evitar el estrés</div>
                 <div class="card-body">
@@ -491,6 +505,9 @@
                     llegas a todo.
                   </p>
                 </div>
+              </div>
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/disfrutar.jpeg" alt="...">
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
@@ -502,6 +519,13 @@
                     solución es hacer todo lo contrario a lo que te diga.
                   </p>
                 </div>
+              </div>
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/amor propio.png" alt="..." width="" height="">
+              </div>
+
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/Designer.png" alt="..." >
               </div>
 
             </div>
@@ -519,8 +543,11 @@
                   </p>
                 </div>
               </div>
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/tomar desiciones.png" alt="...">
+              </div>
 
-              <!--
+      
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header" style="font-weight: bold;">3. Sé sincero</div>
                 <div class="card-body">
@@ -530,7 +557,10 @@
                   </p>
                 </div>
               </div>
-            -->
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/slide3.jpeg" alt="...">
+              </div>
+
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header" style="font-weight: bold;">6. Muévete</div>
@@ -553,6 +583,10 @@
                 </div>
               </div>
 
+              <div class="card mb-3" style="max-width: 18rem;">
+                <img src="images/nuevo comienzo.png" alt="...">
+              </div>
+
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header" style="font-weight: bold;">12. Establece metas alcanzables</div>
                 <div class="card-body">
@@ -567,6 +601,35 @@
           </div>
         </div>
       </div>
+
+      </section>
+
+<!--========================================================== -->
+<!-- Recursos y Programas de ayuda en Bogotá y a nivel nacional -->
+<!--========================================================== -->
+
+<section id="recursos" class="w-100">
+<div class="recursos">
+        <h3>Recursos y Programas de ayuda en Bogotá y a nivel nacional</h3>
+
+
+        <h5>Porque quiero estar bien</h5>
+        <p>Este centro de apoyo liderado por Profamilia y la Fundación Santo Domingo ofrece atención inmediata
+de psicólogos vía WhatsApp o celular. Además, puedes encontrar contenido sobre cómo tener mejores
+hábitos durante la pandemia, e información sobre cómo identificar situaciones de maltrato, tristeza.
+También resuelven dudas sobre sexualidad.
+</p>
+
+<p class="card-tex"> http://porquequieroestarbien.com/
+
+<p class="card-tex"> 300 912 5231 A nivel nacional
+
+Encuentra atención psicológica gratis aquí 
+</p>
+
+        <div class="container">
+          <div class="row">
+</div>
 
     </section>
 
@@ -645,11 +708,6 @@
       <!--========================================================== -->
 
     </section>
-
-    <section>
-      Recursos y Programas de ayuda en Bogotá y a nivel nacional.
-    </section>
-
 
   </main>
 
