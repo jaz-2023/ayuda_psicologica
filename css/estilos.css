@@ -18,9 +18,10 @@ body {
   
   /* Estilos de la barra de navegación */
   nav {
-    background-color: #333;
+    background-color: #054c7f;
     color: #fff;
-    padding: 10px;
+    padding: 13px;
+    text-align: center;
   }
   
   nav ul {
@@ -65,7 +66,7 @@ body {
   }
   
   form input[type="submit"] {
-    background-color: #333;
+    background-color: #054c7f;
     color: #fff;
     border: none;
     padding: 10px;
