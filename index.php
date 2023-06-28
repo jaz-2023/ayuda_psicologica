@@ -33,33 +33,33 @@
         <img src="images/icons/logo.png" alt="" class="d-inline-block align-text-top">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link text-white h5" href="#">Inicio</a>
+            <a class="nav-link text-white h5" href="#">INCIO</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle text-white h5" href="#" id="navbarDropdown" role="button"
               data-bs-toggle="dropdown" aria-expanded="false">
-              Sobre la depresion
+              SOBRE LA DEPRESIÓN
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="#Que_es">¿Que es la depresion?</a></li>
-              <li><a class="dropdown-item" href="#Sintomas">Sintomas</a></li>
-              <li><a class="dropdown-item" href="#Tipos">Tipos</a></li>
+              <li><a class="dropdown-item" href="#Que_es">¿QUE ES LA DEPRESIÓN?</a></li>
+              <li><a class="dropdown-item" href="#Sintomas">SINTOMAS</a></li>
+              <li><a class="dropdown-item" href="#Tipos">TIPOS</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white h5" href="#provoca">Que lo provoca</a>
+            <a class="nav-link text-white h5" href="#provoca">QUE LO PROVOCA</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white h5" href="#riesgo">Factores de riesgo</a>
+            <a class="nav-link text-white h5" href="#riesgo">FACTORES DE RIESGO</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white h5" href="#consejos">Consejos</a>
+            <a class="nav-link text-white h5" href="#consejos">CONSEJOS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white h5" href="#recursos">Recursos</a>
+            <a class="nav-link text-white h5" href="#recursos">RECURSOS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white h5" href="#telefonos">Contacto</a>
+            <a class="nav-link text-white h5" href="#telefonos">CONTACTO</a>
           </li>
         </ul>
       </div>
@@ -423,7 +423,7 @@
           <div class="col">
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">1. Habla y desahógate</div>
+                <div class="card-header" style="font-weight: bold;"> Habla y desahógate</div>
                 <div class="card-body">
                   <p class="card-text">Elige a un amigo/a o familiar de confianza como confidente, y cuéntale cómo te
                     sientes. Pero ten en cuenta que ellos sufren por ti, por lo que es importante que busques a un
@@ -437,7 +437,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">4. Piensa en positivo</div>
+                <div class="card-header" style="font-weight: bold;"> Piensa en positivo</div>
                 <div class="card-body">
                   <p class="card-text">Mantén la esperanza, muchísimas personas han superado este problema. Plantéate
                     metas realistas y no seas impaciente: la depresión no desaparecerá de manera súbita, sino que, poco
@@ -451,7 +451,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">7. Come y duerme bien</div>
+                <div class="card-header" style="font-weight: bold;"> Come y duerme bien</div>
                 <div class="card-body">
                   <p class="card-text">Aunque no sientas apetito, no descuides lo que comes. Una dieta variada y
                     equilibrada, rica en frutas y verduras, te hará sentirte más fuerte. Así mismo, mantener unos
@@ -467,7 +467,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">10.Sé tolerante contigo</div>
+                <div class="card-header" style="font-weight: bold;">Sé tolerante contigo</div>
                 <div class="card-body">
                   <p class="card-text">No te sientas culpable por estar deprimido, ni vivas recriminándote a ti mismo
                     por las consecuencias de tus actos o tus decisiones. Enfoca tu atención en los éxitos que has
@@ -484,7 +484,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">5. No te encierres en ti mismo</div>
+                <div class="card-header" style="font-weight: bold;"> No te encierres en ti mismo</div>
                 <div class="card-body">
                   <p class="card-text">No te aísles. Aunque no tengas muchas ganas, intenta seguir relacionándote con
                     tus amigos o familiares, pasa tiempo con ellos y mantén tus actividades de ocio habituales siempre
@@ -498,7 +498,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">8. Intenta evitar el estrés</div>
+                <div class="card-header" style="font-weight: bold;"> Intenta evitar el estrés</div>
                 <div class="card-body">
                   <p class="card-text">En el día a día, clasifica las tareas en grandes y pequeñas y establece
                     prioridades para cometer lo que tienes que hacer sin agobiarte. Recuerda que no pasa nada si no
@@ -511,7 +511,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">11. No obedezcas esa “voz de la depresión”</div>
+                <div class="card-header" style="font-weight: bold;"> No obedezcas esa “voz de la depresión”</div>
                 <div class="card-body">
                   <p class="card-text">La voz negativa e irracional en tu cabeza puede fácilmente disuadirte de hacer
                     cualquier cosa que suba tu estado de ánimo. Por ello, uno de nuestros mejores consejos para superar
@@ -533,7 +533,7 @@
             <div class="col">
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">2. No tomes decisiones precipitadas</div>
+                <div class="card-header" style="font-weight: bold;"> No tomes decisiones precipitadas</div>
                 <div class="card-body">
                   <p class="card-text">Aplaza las decisiones importantes, como puede ser un divorcio, un cambio de
                     empleo o contraer matrimonio, hasta que te sientas mejor. Y de nuevo, habla sobre ellas con otras
@@ -549,7 +549,7 @@
 
       
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">3. Sé sincero</div>
+                <div class="card-header" style="font-weight: bold;"> Sé sincero</div>
                 <div class="card-body">
                   <p class="card-text">Tanto contigo mismo como con el profesional que te ayude a afrontar tu depresión.
                     No temas contarle tus preocupaciones y miedos ni preguntarle todo lo que necesites. Exprésale de
@@ -563,7 +563,7 @@
 
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">6. Muévete</div>
+                <div class="card-header" style="font-weight: bold;"> Muévete</div>
                 <div class="card-body">
                   <p class="card-text">Haz deporte, da un paseo o practica otro tipo de actividades de ocio -como ir al
                     cine o participar en eventos sociales- con las que antes disfrutaras. Respirar aire puro y el
@@ -574,7 +574,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">9. No abuses del alcohol u otras drogas</div>
+                <div class="card-header" style="font-weight: bold;"> No abuses del alcohol u otras drogas</div>
                 <div class="card-body">
                   <p class="card-text">No caigas en la tentación de recurrir al alcohol o a otras drogas para sentirte
                     mejor, pues, una vez se haya disipado el efecto de relajación o euforia que provocan estas
@@ -588,7 +588,7 @@
               </div>
 
               <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header" style="font-weight: bold;">12. Establece metas alcanzables</div>
+                <div class="card-header" style="font-weight: bold;"> Establece metas alcanzables</div>
                 <div class="card-body">
                   <p class="card-text">Hacer una lista de tareas por hacer puede ser muy tedioso y seguramente
                     terminarás optando por no hacer nada. Entonces ¿por qué no fijar uno o dos objetivos pequeños? El
@@ -607,8 +607,10 @@
 <!--========================================================== -->
 <!-- Recursos y Programas de ayuda en Bogotá y a nivel nacional -->
 <!--========================================================== -->
-
-<section id="recursos" class="w-100">
+<section id="recursos">
+      <div class="card text-dark bg-light mb-3" style="max-width: 100rem;">
+        <div class="row g-0">
+          <div class="col-md-9">
 
 <h3 class="card-title" style="margin-bottom: 2.5rem;"><b>Recursos y Programas de ayuda en Bogotá y a nivel nacional</b></h3>
 <p class="card-text" style="margin-bottom: 1rem;"><h5><b>Porque quiero estar bien</b></h5>
